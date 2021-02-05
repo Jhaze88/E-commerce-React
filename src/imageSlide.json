@@ -1,0 +1,25 @@
+{
+    "imageSlide":[
+        {
+            "id": "1",
+            "image":"/slideimg/img1.png"
+        },
+        {
+            "id": "2",
+            "image":"/slideimg/img2.png"
+        },
+        {
+            "id": "3",
+            "image":"/slideimg/img3.png"
+        },
+        {
+            "id": "4",
+            "image":"/slideimg/img4.png"
+        },
+        {
+            "id": "5",
+            "image":"/slideimg/img5.png"
+        }
+    ]
+}
+

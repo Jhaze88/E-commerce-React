@@ -1,0 +1,100 @@
+{
+    "products":[
+        {
+            "id":"shoes1",
+            "image": "/image/adidas.png",
+            "title":"Adidas",
+            "description": "Limited Edition",
+            "availableSizes":["42", "43", "44"],
+            "price" : 199
+        },
+        {
+            "id":"shoes2",
+            "image": "/image/airforce1.png",
+            "title":"Nike",
+            "description": "Air Force 1",
+            "availableSizes":["41", "43"],
+            "price" : 299
+        },
+        {
+            "id":"shoes3",
+            "image": "/image/jordan1.png",
+            "title":"Jordan",
+            "description": "Jordan 1 Limited Edition",
+            "availableSizes":["41", "42", "44", "45", "46"],
+            "price" : 189
+        },
+        {
+            "id":"shoes4",
+            "image": "/image/jordan1ts.png",
+            "title":"Jordan",
+            "description": "Jordan 1 for Travis Scott",
+            "availableSizes":["40", "41", "42", "43", "44", "45", "46"],
+            "price" : 399
+        },
+        {
+            "id":"shoes5",
+            "image": "/image/lebron15.png",
+            "title":"Nike",
+            "description": "Lebron 15",
+            "availableSizes":["42", "43", "44", "45", "46", "47"],
+            "price" : 199
+        },
+        {
+            "id":"shoes6",
+            "image": "/image/newbalance.png",
+            "title":"New Balance",
+            "description": "Limited Edition",
+            "availableSizes":["40", "41", "42", "43", "44", "45", "46", "47"],
+            "price" : 159
+        },
+        {
+            "id":"shoes7",
+            "image": "/image/nike720.png",
+            "title":"Nike",
+            "description": "Nike 720",
+            "availableSizes":["42", "43", "44", "45"],
+            "price" : 189
+        },
+        {
+            "id":"shoes8",
+            "image": "image/reebok.png",
+            "title":"Reebook",
+            "description": "Limite Edition",
+            "availableSizes":["40", "41", "42", "43", "44", "45"],
+            "price" : 139
+        },
+        {
+            "id":"shoes9",
+            "image": "/image/timberland.png",
+            "title":"Timberland",
+            "description": "Limited Edition",
+            "availableSizes":["42", "43", "44", "45", "46", "47"],
+            "price" : 369
+        },
+        {
+            "id":"shoes10",
+            "image": "/image/underarmur.png",
+            "title":"Under Armour",
+            "description": "Limited Edition",
+            "availableSizes":["40", "41", "42", "43", "44", "45", "46", "47"],
+            "price" : 249
+        },
+        {
+            "id":"shoes11",
+            "image": "/image/nikemag.png",
+            "title":"Nike",
+            "description": "Limited Edition",
+            "availableSizes":["40", "41", "42", "43", "44", "45", "46", "47"],
+            "price" : 799
+        },
+        {
+            "id":"shoes12",
+            "image": "/image/nikeoffwhite.png",
+            "title":"Nike",
+            "description": "Limited Edition",
+            "availableSizes":["40", "41", "42", "43", "44", "45", "46", "47"],
+            "price" : 499
+        }
+    ]
+}
